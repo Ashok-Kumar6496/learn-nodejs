@@ -1,0 +1,1 @@
+Write some data into app.txt using writeFileSyncThis is appended dataThis is appended dataThis is appended dataThis is appended data
